@@ -1,5 +1,9 @@
 #!/bin/bash
 # This script generates a report of memory use
+# Copyright 2023 Guillermo Espejo  <guillermo.espejo@cip.org.pe
+#
+# This software may be used and distributed according to the terms of
+# the GNU General Public License version 2 or later.
 
 echo $(hostname)
 echo "RAM (GB)"
